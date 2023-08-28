@@ -1,3 +1,4 @@
+
 [![MIT Licensed](https://img.shields.io/github/license/stevelorenz/comnetsemu)](https://github.com/stevelorenz/comnetsemu/blob/master/LICENSE)
 [![ComNetsEmu CI](https://github.com/stevelorenz/comnetsemu/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/stevelorenz/comnetsemu/actions/workflows/ci.yml)
 
@@ -5,6 +6,25 @@ ComNetsEmu
 ==========
 *A virtual emulator/testbed designed for the book:
 [Computing in Communication Networks: From Theory to Practice](https://www.amazon.com/Computing-Communication-Networks-Theory-Practice-ebook/dp/B088ZS597R)*
+
+If you like or use ComNetsEmu, please cite our book: 
+```
+@book{CompBook,
+title = {Computing in Communication Networks \textendash From Theory to Practice},
+author = {Frank H. P. {Fitzek} and Fabrizio {Granelli} and Patrick {Seeling}},
+isbn = {9780128204887},
+year = {2020},
+date = {2020-05-21},
+volume = {1},
+publisher = {Elsevier},
+edition = {1},
+series = {1},
+note = {https://cn.ifn.et.tu-dresden.de/compcombook/},
+keywords = {},
+pubstate = {published},
+tppubtype = {book}
+}
+```
 
 This project has a online [Github page](https://stevelorenz.github.io/comnetsemu/) for Python API documentation and other useful documentation.
 Please check it when you develop or use ComNetsEmu's Python APIs. 
