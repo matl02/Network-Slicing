@@ -1,4 +1,4 @@
-# Docker compse
+# Docker compose
 This guide demonstrates usage of ```docker compose``` tool for running multi-container applications on Docker defined using the Compose file format.
 the `my-stack.yaml` file is used to define how one or more containers that make up your application are configured. 
 
